@@ -63,7 +63,16 @@ File:
 
 Example:
 
-![Dashboard Screenshot](Dashboard.png)
+## 📷 Dashboard Screenshots
+
+### Dashboard Page 1
+![Dashboard Page 1](1.png)
+
+### Dashboard Page 2
+![Dashboard Page 2](2.png)
+
+### Dashboard Page 3
+![Dashboard Page 3](3.png)
 
 ---
 
