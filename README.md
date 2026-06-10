@@ -59,8 +59,6 @@ File:
 
 ## 📷 Dashboard Preview
 
-(Add your Power BI dashboard screenshot here)
-
 Example:
 
 ## 📷 Dashboard Screenshots
