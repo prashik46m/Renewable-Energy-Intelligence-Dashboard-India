@@ -59,14 +59,14 @@ File:
 
 ## 📷 Dashboard Screenshots
 
-### Dashboard Page 1
-![Dashboard Page 1](1.png)
+### 🏠 Dashboard Home
+![Dashboard Home](1.png)
 
-### Dashboard Page 2
-![Dashboard Page 2](2.png)
+### 📊 Renewable Energy Overview
+![Renewable Energy Overview](2.png)
 
-### Dashboard Page 3
-![Dashboard Page 3](3.png)
+### 📈 Efficiency & Cost Optimization
+![Efficiency & Cost Optimization](3.png)
 
 ---
 
