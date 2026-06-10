@@ -78,10 +78,13 @@ File:
 
 ---
 
+---
 ## 👨‍💻 Author
 
 **Prashik Meshram**
 
-Aspiring Data Analyst
+📊 Aspiring Data Analyst
 
-Skills: SQL | Python | Power BI | Tableau | Excel
+🛠 Skills: SQL | Python | Power BI | Tableau | Excel
+
+⭐ If you like this project, consider giving it a star!
