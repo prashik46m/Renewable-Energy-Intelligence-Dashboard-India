@@ -57,10 +57,6 @@ File:
 
 ---
 
-## 📷 Dashboard Preview
-
-Example:
-
 ## 📷 Dashboard Screenshots
 
 ### Dashboard Page 1
